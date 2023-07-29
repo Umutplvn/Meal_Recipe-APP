@@ -7,9 +7,9 @@ const Footer = () => {
 
     return (
     <div className="footer">
-     <h6  className="footer-text"> © 2023 Copyright: Mealway.com</h6> 
+     <h6  className="text-center footer-text"> © 2023 Copyright: Mealway.com</h6> 
      <div className="d-flex flex-column ">
-      <h6>Follow Us On Social Media</h6>
+      <h6 className="text-center">Follow Us On Social Media</h6>
       <div className="d-flex justify-content-center gap-3  fs-4">
       <AiFillFacebook className="icon"/>
       <AiOutlineTwitter className="icon"/>

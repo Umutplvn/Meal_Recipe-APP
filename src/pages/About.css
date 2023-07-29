@@ -1,6 +1,8 @@
 .about{
     background-image: url("../assets//background.jpeg");
    background-position: center;
+   height: 100vh;
+   overflow: scroll;
    background-attachment: fixed;
    background-size: cover;
    width: 100%;
@@ -9,6 +11,7 @@
 .about-text{
     color: white;
     padding: 3rem;
+    margin-bottom: 4rem;
     font-size: 20px;
     
 }
