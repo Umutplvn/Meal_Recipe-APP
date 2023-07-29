@@ -1,0 +1,14 @@
+.about{
+    background-image: url("../assets//background.jpeg");
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+   width: 100%;
+}
+
+.about-text{
+    color: white;
+    padding: 3rem;
+    font-size: 20px;
+    
+}

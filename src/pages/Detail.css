@@ -1,0 +1,38 @@
+.detail{
+    background-image: url("../assets//recipe.avif");
+    width: 100vw;
+    background-attachment: fixed;
+    overflow: scroll;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: antiquewhite;
+}
+
+.detail-img{
+transform: scale(2);
+max-width: 200px;
+margin: 3rem;
+background-color: white;
+}
+
+.detail-table{
+    border: 1px solid black;
+}
+
+.ins-title{
+    color: white;
+    font-weight: 700;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.instruction{
+    margin-bottom: 5rem;
+    padding: 2rem;
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}

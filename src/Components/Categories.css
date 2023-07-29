@@ -1,0 +1,23 @@
+.category-main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    gap: 2rem;
+    justify-content: center;
+    height: 100%;
+    overflow: scroll;
+    padding: 1rem;
+}
+
+
+.categories-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-height: 12rem;
+}
+
+.card-text{
+    height: 6rem;
+    overflow: scroll;
+}
