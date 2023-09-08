@@ -3,7 +3,7 @@
 
 # Rating Info
 
-# Live at: https://meal-recipes-umut.netlify.app/
+## Live at: https://meal-recipes-umut.netlify.app/
 
 ## Description
 
